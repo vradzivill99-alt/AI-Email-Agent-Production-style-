@@ -27,3 +27,9 @@ Example:
 ## Impact
 - Reduces manual email handling by ~70%
 - Improves response time
+  
+## ⚙️ Use Cases
+
+- Business automation
+- AI-powered workflows
+- Backend AI systems
